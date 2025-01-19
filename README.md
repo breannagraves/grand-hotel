@@ -1,5 +1,7 @@
 # grand-hotel
-Website for a hotel. 
+A website for a hotel. Exploration of unique navigation style. 
+
+Dynamic Reviews and Calendar implemented using JS. 
 
 Frontend built in HTML/CSS/JS. 
 <br>
